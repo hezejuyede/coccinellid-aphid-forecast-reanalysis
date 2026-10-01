@@ -1,0 +1,61 @@
+{
+  "package": "JAUE26-10_GitHub_Repository_R105",
+  "version": "R105",
+  "files": [
+    {
+      "path": ".gitignore",
+      "size_bytes": 41,
+      "sha256": "4591b8df3fb5be5423cab12baf8f02dffaafeb225165f36312dfa1dd25c3fa61"
+    },
+    {
+      "path": "CHANGELOG.md",
+      "size_bytes": 928,
+      "sha256": "8210bf240c5fbb70df6f7571ec2cfd5f20c6bd9527dfe019485da3744ea44c72"
+    },
+    {
+      "path": "CITATION.cff",
+      "size_bytes": 1206,
+      "sha256": "a388648437004e8ad3775d136dd1d2c2b74a23686660f5d9cf39a3cd9bbe596d"
+    },
+    {
+      "path": "DATA_SOURCES.md",
+      "size_bytes": 1106,
+      "sha256": "486c57b3258ad9dcc3d95eaa934c11f8ef7108b9bef8d11e895130ecbf81c304"
+    },
+    {
+      "path": "GITHUB_UPLOAD_INSTRUCTIONS_CN.md",
+      "size_bytes": 1419,
+      "sha256": "a78eebb8bd7ef0e7312638322eea4ed81a97aa0f00892985a3f5b191bd26eaf0"
+    },
+    {
+      "path": "LICENSE_NOTICE.md",
+      "size_bytes": 665,
+      "sha256": "43433458f9038358a4ea0f93f6315220b0418212aa9b18399ebb558c5abc563e"
+    },
+    {
+      "path": "README.md",
+      "size_bytes": 3508,
+      "sha256": "14749873d645c98acf1e12f2ff6eceef98d4162ed060f89538f7bff4c0fdbb4f"
+    },
+    {
+      "path": "STATUS.md",
+      "size_bytes": 631,
+      "sha256": "5212a12654bb5a66c314072b8f95cd949818843e1b461f59dcd29841098f20b4"
+    },
+    {
+      "path": "archive_pending/README_ADD_R104_ANALYSIS_ARCHIVE.md",
+      "size_bytes": 839,
+      "sha256": "45bfaa764df667b8869bac0844202b9e7389826673b979932a0aeb529ebe07a0"
+    },
+    {
+      "path": "dataset_selection/JAUE26-10_Dataset_Selection_Register_R105.csv",
+      "size_bytes": 4503,
+      "sha256": "2fb61a8b957f69611142ebbd4064bd8c247aa35b96a5cc70b7ead6aeb1372fc6"
+    },
+    {
+      "path": "technical_appendix/JAUE26-10_Repository_Technical_Appendix_R105.docx",
+      "size_bytes": 113310,
+      "sha256": "7645d244f8a1cdb0324035b2288f25005f387e377af1c27750ac646fa48584e6"
+    }
+  ]
+}

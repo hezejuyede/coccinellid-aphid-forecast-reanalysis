@@ -1,0 +1,28 @@
+cff-version: 1.2.0
+message: "If you use these repository materials, please cite this repository and the original source datasets."
+title: "Coccinellid abundance and short-horizon aphid forecasting: reproducibility materials"
+type: dataset
+version: "R105"
+date-released: "2026-09-30"
+authors:
+  - family-names: "Li"
+    given-names: "Xin"
+    orcid: "https://orcid.org/0009-0005-0670-5006"
+    affiliation: "Higher School of Economics and Business, Department of Information Systems in Economics, I. Razzakov Kyrgyz State Technical University"
+  - family-names: "Guo"
+    given-names: "Bojian"
+    orcid: "https://orcid.org/0009-0005-8353-2436"
+    affiliation: "Higher School of Economics and Business, Department of Information Systems in Economics, I. Razzakov Kyrgyz State Technical University"
+  - family-names: "Kartanova"
+    given-names: "Asel"
+    orcid: "https://orcid.org/0000-0003-1479-0747"
+    affiliation: "Higher School of Economics and Business, Department of Information Systems in Economics, I. Razzakov Kyrgyz State Technical University"
+keywords:
+  - aphids
+  - coccinellids
+  - lady beetles
+  - forecast evaluation
+  - soybean
+  - wheat
+  - secondary analysis
+  - persistence forecast
